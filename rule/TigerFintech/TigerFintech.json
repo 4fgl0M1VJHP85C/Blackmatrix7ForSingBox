@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zhijianfengyi.com",
+        "tigerbbs.com",
+        "tigerbbs.cn",
+        "tigerfintech.com",
+        "xiaohu8.com",
+        "zhijianfengyi.cn",
+        "laohu8.com",
+        "itiger.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "rarbgprx.org",
+        "rarbgto.org",
+        "rarbg.unblocked.vc",
+        "rarbgunblock.com",
+        "rarbg.is",
+        "rarbgs.com",
+        "rarbgunblock.org",
+        "rarbgmirror.com",
+        "rarbg.me",
+        "rarbgget.org",
+        "rarbgway.org",
+        "rarbg.bypassed.org",
+        "proxyrarbg.org",
+        "rarbg.link",
+        "rarbgmirror.org",
+        "rarbg.to",
+        "dyncdn.me",
+        "rarbgaccess.org",
+        "rarbgproxy.org",
+        "rarbgmirror.xyz",
+        "rarbgaccessed.org",
+        "rarbggo.org"
+      ]
+    }
+  ],
+  "version": 2
+}

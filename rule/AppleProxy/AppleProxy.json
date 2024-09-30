@@ -1,0 +1,55 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "mask.icloud.com",
+        "testflight.apple.com",
+        "mask-api.icloud.com",
+        "gspe1-ssl.ls.apple.com",
+        "api-glb-sea.smoot.apple.com",
+        "devimages-cdn.apple.com",
+        "devstreaming-cdn.apple.com",
+        "news-edge.apple.com",
+        "hls-svod.itunes.apple.com",
+        "developer.apple.com",
+        "play-edge.itunes.apple.com",
+        "apple.comscoreresearch.com",
+        "news-assets.apple.com",
+        "cdn.apple-cloudkit.com",
+        "cvws.icloud-content.com",
+        "news-client.apple.com",
+        "mask-h2.icloud.com",
+        "docs-assets.developer.apple.com",
+        "sandbox.itunes.apple.com",
+        "np-edge.itunes.apple.com",
+        "books.itunes.apple.com",
+        "js-cdn.music.apple.com",
+        "uts-api.itunes.apple.com",
+        "lookup-api.apple.com",
+        "news-events.apple.com",
+        "tv.applemusic.com",
+        "itunes.apple.com"
+      ],
+      "domain_suffix": [
+        "cdn-apple.com",
+        "ocsp.apple.com",
+        "tv.apple.com",
+        "audio-ssl.itunes.apple.com",
+        "digicert.com",
+        "hls.itunes.apple.com",
+        "apple.news",
+        "appsto.re",
+        "apps.apple.com",
+        "hls-amt.itunes.apple.com",
+        "apple-dns.net",
+        "blobstore.apple.com"
+      ]
+    },
+    {
+      "process_name": [
+        "LookupViewService"
+      ]
+    }
+  ],
+  "version": 2
+}
