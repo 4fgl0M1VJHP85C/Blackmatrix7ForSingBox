@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "nubia.mobi",
+        "shouhubao.com.cn",
+        "3gcare.cn",
+        "nubia.com",
+        "ztehotel.com",
+        "nubia.cn",
+        "ztemall.com",
+        "ztedevice.com.cn",
+        "ztems.com",
+        "zte.net",
+        "ztedevice.com",
+        "ztehotel.net",
+        "nubia.net.cn",
+        "zxingyun.com",
+        "nubia.com.cn",
+        "ztehotel.com.cn",
+        "redmagic.com",
+        "zte.com.cn",
+        "nubia.cc",
+        "ztedevices.com"
+      ]
+    }
+  ],
+  "version": 2
+}
