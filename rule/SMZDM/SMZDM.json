@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "faxianpindao.com",
+        "zdm.net",
+        "smzdmimg.com",
+        "wanwuzhinan.com",
+        "zdmimg.com",
+        "smzdm.com",
+        "zhidemai.com",
+        "quaolai.com",
+        "valueq-sea.com"
+      ]
+    }
+  ],
+  "version": 2
+}
