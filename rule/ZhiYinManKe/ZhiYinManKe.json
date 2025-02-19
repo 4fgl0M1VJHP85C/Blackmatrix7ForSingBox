@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mkzcdn.com",
+        "mkzhan.com.cn",
+        "xiaomingtaiji.com.cn",
+        "xiaomingtaiji.net",
+        "51kanmanhua.com",
+        "xiaomingtaiji.cc",
+        "xiaoshuohui.net",
+        "zymkcdn.com",
+        "mkzhan.com",
+        "mkpush.com",
+        "xiaomingtaiji.cn",
+        "mkzhan.cn",
+        "mkzhan.net",
+        "xiaomingtaiji.com",
+        "xiaoshuohui.com.cn",
+        "zymk.cn",
+        "mkdata.top"
+      ]
+    }
+  ],
+  "version": 2
+}

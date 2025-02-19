@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hkcircleapp.com",
+        "smartonesolutions.hk",
+        "s-cashonmobile.com",
+        "smartoneholdings.com",
+        "s-rewards.hk",
+        "sahabatsetiasmartone.com",
+        "valuegb.com",
+        "smartonesolutions.com.hk",
+        "smartone.com",
+        "wise-research.com",
+        "healthreach.hk",
+        "ip73.com",
+        "smartonerobotics.com",
+        "homephoneplus.com",
+        "barkadahansasmartone.com"
+      ]
+    }
+  ],
+  "version": 2
+}

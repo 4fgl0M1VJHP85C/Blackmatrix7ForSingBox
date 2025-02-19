@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "shangzhibo.tv",
+        "aicdn3.com",
+        "upyun.com",
+        "aicdn4.com",
+        "shangketang.com",
+        "zhidian-inc.cn",
+        "sktcdn.com",
+        "aicdn.com",
+        "aicdn2.com",
+        "upaiyun.com",
+        "authbus.com",
+        "aicdn5.com",
+        "upai.com",
+        "oncdp.com",
+        "upcdn.net",
+        "yupoo.com"
+      ]
+    }
+  ],
+  "version": 2
+}
