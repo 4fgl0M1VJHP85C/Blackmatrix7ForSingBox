@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "bbf.org.cn",
+        "chndoi.com.cn",
+        "chndoi.org",
+        "cnkidoi.org",
+        "wuxizazhi.cn",
+        "cnki.net",
+        "cnkidoi.com",
+        "wuxizazhi.com.cn",
+        "chndoi.cn",
+        "bjsbnet.com",
+        "cnkidoi.net",
+        "wuxizazhi.com",
+        "wuxizazhi.net",
+        "cnkidoi.cn",
+        "chndoi.net",
+        "chndoi.com",
+        "wuxizazhi.net.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

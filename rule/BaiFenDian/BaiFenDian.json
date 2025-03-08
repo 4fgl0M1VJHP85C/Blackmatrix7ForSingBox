@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mediaforce.cn",
+        "bfdcloud.com",
+        "bfdcdn.com",
+        "marimall.cn",
+        "blingoffice.com",
+        "pertalk.cn",
+        "xworld.net.cn",
+        "pdeepmatrix.com",
+        "baifendian.com",
+        "percent.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
